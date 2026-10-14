@@ -13,13 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aplikasi Pengeluaran Harian",
-  description: "Aplikasi untuk tracking pengeluaran harian dengan kategori custom",
+  title: "Tata Arta - Aplikasi Pengeluaran Harian",
+  description: "Aplikasi untuk tracking pengeluaran harian dengan kategori custom dan budget management",
   manifest: "/manifest.json",
+  icons: {
+    icon: "/Image/logo-tata-arta.jpg",
+    apple: "/Image/logo-tata-arta.jpg",
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Pengeluaran",
+    title: "Tata Arta",
   },
 };
 

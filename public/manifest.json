@@ -1,23 +1,23 @@
 {
-  "name": "Aplikasi Pengeluaran Harian",
-  "short_name": "Pengeluaran",
-  "description": "Aplikasi untuk tracking pengeluaran harian dengan kategori custom",
+  "name": "Tata Arta - Aplikasi Pengeluaran Harian",
+  "short_name": "Tata Arta",
+  "description": "Aplikasi untuk tracking pengeluaran harian dengan kategori custom dan budget management",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#3b82f6",
+  "theme_color": "#4f46e5",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon-192x192.svg",
+      "src": "/Image/logo-tata-arta.jpg",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/jpeg",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512x512.svg",
+      "src": "/Image/logo-tata-arta.jpg",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/jpeg",
       "purpose": "any maskable"
     }
   ]
